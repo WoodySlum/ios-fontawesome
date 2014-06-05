@@ -85,7 +85,7 @@
                                       @"\uf164", @"\uf165", @"\uf166", @"\uf167", @"\uf168", @"\uf169", @"\uf16a", @"\uf16b", @"\uf16c", @"\uf16d",
                                       @"\uf16e", @"\uf170", @"\uf171", @"\uf172", @"\uf173", @"\uf174", @"\uf175", @"\uf176", @"\uf177", @"\uf178",
                                       @"\uf179", @"\uf17a", @"\uf17b", @"\uf17c", @"\uf17d", @"\uf17e", @"\uf180", @"\uf181", @"\uf182", @"\uf183",
-                                      @"\uf184", @"\uf185", @"\uf186", @"\uf187", @"\uf188", @"\uf189", @"\uf18a", @"\uf18b"];
+                                      @"\uf184", @"\uf185", @"\uf186", @"\uf187", @"\uf188", @"\uf189", @"\uf18a", @"\uf18b", @"\uf1b9"];
 
     });
     
@@ -478,6 +478,7 @@
         tmp[@"icon-vk"]             = @(FAIconVk);
         tmp[@"icon-weibo"]          = @(FAIconWeibo);
         tmp[@"icon-renren"]         = @(FAIconRenren);
+        tmp[@"icon-car"]            = @(FAIconCar);
 		enumDictionary = tmp;
 	});
     

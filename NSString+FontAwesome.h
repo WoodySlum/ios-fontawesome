@@ -2296,7 +2296,13 @@ typedef NS_ENUM(NSInteger, FAIcon) {
      @abstract  Renren
      @discussion id: renren, unicode: f18b, created: 3.2.
      */
-    FAIconRenren
+    FAIconRenren,
+
+    /**
+     @abstract  Car
+     @discussion id: car, unicode: f1b9, created: 3.2.
+     */
+    FAIconCar
 };
 
 
