@@ -2302,7 +2302,7 @@ typedef NS_ENUM(NSInteger, FAIcon) {
      @abstract  Car
      @discussion id: car, unicode: f1b9, created: 3.2.
      */
-    FAIconCar
+    FAIconCar,
 
     /**
      @abstract  ShareAltSquare
