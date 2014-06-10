@@ -2303,6 +2303,12 @@ typedef NS_ENUM(NSInteger, FAIcon) {
      @discussion id: car, unicode: f1b9, created: 3.2.
      */
     FAIconCar
+
+    /**
+     @abstract  ShareAltSquare
+     @discussion id: share-alt-square, unicode: f1e1, created: 3.2.
+     */
+    FAShareAltSquare
 };
 
 
